@@ -1,0 +1,461 @@
+medalType,eventName,sportCode,athleteID,date
+Bronze Medal,Men's 20km Race Walk,ATH,1904165,2024-08-01
+Bronze Medal,Women's 20km Race Walk,ATH,1939791,2024-08-01
+Gold Medal,Men's 20km Race Walk,ATH,1929767,2024-08-01
+Gold Medal,Women's 20km Race Walk,ATH,1919002,2024-08-01
+Silver Medal,Men's 20km Race Walk,ATH,1951928,2024-08-01
+Silver Medal,Women's 20km Race Walk,ATH,1905369,2024-08-01
+Bronze Medal,"Men's 10000m",ATH,1960959,2024-08-02
+Gold Medal,"Men's 10000m",ATH,1970827,2024-08-02
+Silver Medal,"Men's 10000m",ATH,1536998,2024-08-02
+Bronze Medal,Men's Decathlon,ATH,1573388,2024-08-03
+Bronze Medal,Men's Shot Put,ATH,1564189,2024-08-03
+Bronze Medal,Women's 100m,ATH,1961011,2024-08-03
+Bronze Medal,Women's Triple Jump,ATH,1965250,2024-08-03
+Gold Medal,Men's Decathlon,ATH,1878353,2024-08-03
+Gold Medal,Men's Shot Put,ATH,1960688,2024-08-03
+Gold Medal,Women's 100m,ATH,1537325,2024-08-03
+Gold Medal,Women's Triple Jump,ATH,1908333,2024-08-03
+Silver Medal,Men's Decathlon,ATH,1920180,2024-08-03
+Silver Medal,Men's Shot Put,ATH,1965246,2024-08-03
+Silver Medal,Women's 100m,ATH,1960181,2024-08-03
+Silver Medal,Women's Triple Jump,ATH,1536885,2024-08-03
+Bronze Medal,Men's 100m,ATH,1960958,2024-08-04
+Bronze Medal,Men's Hammer Throw,ATH,1571563,2024-08-04
+Bronze Medal,Women's High Jump,ATH,1571577,2024-08-04
+Bronze Medal,Women's High Jump,ATH,1939763,2024-08-04
+Gold Medal,Men's 100m,ATH,1960173,2024-08-04
+Gold Medal,Men's Hammer Throw,ATH,1974151,2024-08-04
+Gold Medal,Women's High Jump,ATH,1571559,2024-08-04
+Silver Medal,Men's 100m,ATH,1980161,2024-08-04
+Silver Medal,Men's Hammer Throw,ATH,1916814,2024-08-04
+Silver Medal,Women's High Jump,ATH,1939838,2024-08-04
+Bronze Medal,Men's Pole Vault,ATH,1961218,2024-08-05
+Bronze Medal,Women's 5000m,ATH,1972105,2024-08-05
+Bronze Medal,Women's 800m,ATH,1928047,2024-08-05
+Bronze Medal,Women's Discus Throw,ATH,1922205,2024-08-05
+Gold Medal,Men's Pole Vault,ATH,1569203,2024-08-05
+Gold Medal,Women's 5000m,ATH,1910560,2024-08-05
+Gold Medal,Women's 800m,ATH,1924429,2024-08-05
+Gold Medal,Women's Discus Throw,ATH,1960721,2024-08-05
+Silver Medal,Men's Pole Vault,ATH,1960178,2024-08-05
+Silver Medal,Women's 5000m,ATH,1910451,2024-08-05
+Silver Medal,Women's 800m,ATH,1536498,2024-08-05
+Silver Medal,Women's Discus Throw,ATH,1919067,2024-08-05
+Bronze Medal,Men's 1500m,ATH,1965327,2024-08-06
+Bronze Medal,Men's Long Jump,ATH,1552378,2024-08-06
+Bronze Medal,Women's 200m,ATH,1960588,2024-08-06
+Bronze Medal,Women's 3000m Steeplechase,ATH,1910453,2024-08-06
+Bronze Medal,Women's Hammer Throw,ATH,1919077,2024-08-06
+Gold Medal,Men's 1500m,ATH,1960933,2024-08-06
+Gold Medal,Men's Long Jump,ATH,1961246,2024-08-06
+Gold Medal,Women's 200m,ATH,1965868,2024-08-06
+Gold Medal,Women's 3000m Steeplechase,ATH,1926102,2024-08-06
+Gold Medal,Women's Hammer Throw,ATH,1974290,2024-08-06
+Silver Medal,Men's 1500m,ATH,1924440,2024-08-06
+Silver Medal,Men's Long Jump,ATH,1938899,2024-08-06
+Silver Medal,Women's 200m,ATH,1537325,2024-08-06
+Silver Medal,Women's 3000m Steeplechase,ATH,1971686,2024-08-06
+Silver Medal,Women's Hammer Throw,ATH,1960899,2024-08-06
+Bronze Medal,Men's 3000m Steeplechase,ATH,1910445,2024-08-07
+Bronze Medal,Men's 400m,ATH,1937531,2024-08-07
+Bronze Medal,Men's Discus Throw,ATH,1939824,2024-08-07
+Bronze Medal,Women's Pole Vault,ATH,1974216,2024-08-07
+Gold Medal,Men's 3000m Steeplechase,ATH,1555372,2024-08-07
+Gold Medal,Men's 400m,ATH,1960177,2024-08-07
+Gold Medal,Men's Discus Throw,ATH,1912322,2024-08-07
+Gold Medal,Women's Pole Vault,ATH,1939839,2024-08-07
+Silver Medal,Men's 3000m Steeplechase,ATH,1965896,2024-08-07
+Silver Medal,Men's 400m,ATH,1924430,2024-08-07
+Silver Medal,Men's Discus Throw,ATH,1922593,2024-08-07
+Silver Medal,Women's Pole Vault,ATH,1965268,2024-08-07
+Bronze Medal,Men's 110m Hurdles,ATH,1901251,2024-08-08
+Bronze Medal,Men's 200m,ATH,1960173,2024-08-08
+Bronze Medal,Men's Javelin Throw,ATH,1573418,2024-08-08
+Bronze Medal,Women's 400m Hurdles,ATH,1972078,2024-08-08
+Bronze Medal,Women's Long Jump,ATH,1965250,2024-08-08
+Gold Medal,Men's 110m Hurdles,ATH,1960961,2024-08-08
+Gold Medal,Men's 200m,ATH,1936983,2024-08-08
+Gold Medal,Men's Javelin Throw,ATH,1878563,2024-08-08
+Gold Medal,Women's 400m Hurdles,ATH,1965308,2024-08-08
+Gold Medal,Women's Long Jump,ATH,1960711,2024-08-08
+Silver Medal,Men's 110m Hurdles,ATH,1965223,2024-08-08
+Silver Medal,Men's 200m,ATH,1960659,2024-08-08
+Silver Medal,Men's Javelin Throw,ATH,1550250,2024-08-08
+Silver Medal,Women's 400m Hurdles,ATH,1960581,2024-08-08
+Silver Medal,Women's Long Jump,ATH,1920175,2024-08-08
+Bronze Medal,Men's 400m Hurdles,ATH,1951913,2024-08-09
+Bronze Medal,Men's Triple Jump,ATH,1552375,2024-08-09
+Bronze Medal,Women's 400m,ATH,1573098,2024-08-09
+Bronze Medal,Women's Shot Put,ATH,1919065,2024-08-09
+Bronze Medal,Women's Heptathlon,ATH,1895596,2024-08-09
+Gold Medal,Men's 400m Hurdles,ATH,1960684,2024-08-09
+Gold Medal,Men's Triple Jump,ATH,1904099,2024-08-09
+Gold Medal,Women's Shot Put,ATH,1920183,2024-08-09
+Gold Medal,Women's Heptathlon,ATH,1903112,2024-08-09
+Silver Medal,Men's 400m Hurdles,ATH,1894095,2024-08-09
+Silver Medal,Men's Triple Jump,ATH,1938792,2024-08-09
+Silver Medal,Women's 400m,ATH,1915338,2024-08-09
+Silver Medal,Women's Shot Put,ATH,1926695,2024-08-09
+Silver Medal,Women's Heptathlon,ATH,1977926,2024-08-09
+Bronze Medal,Men's 5000m,ATH,1960959,2024-08-10
+Bronze Medal,Men's 800m,ATH,1963520,2024-08-10
+Bronze Medal,Men's High Jump,ATH,1566681,2024-08-10
+Bronze Medal,Men's Marathon,ATH,1910555,2024-08-10
+Bronze Medal,Women's 100m Hurdles,ATH,1537183,2024-08-10
+Bronze Medal,Women's 1500m,ATH,1956840,2024-08-10
+Bronze Medal,Women's Javelin Throw,ATH,1892137,2024-08-10
+Gold Medal,Men's 5000m,ATH,1898250,2024-08-10
+Gold Medal,Men's 800m,ATH,1910412,2024-08-10
+Gold Medal,Men's High Jump,ATH,1926713,2024-08-10
+Gold Medal,Men's Marathon,ATH,1901284,2024-08-10
+Gold Medal,Women's 100m Hurdles,ATH,1960169,2024-08-10
+Gold Medal,Women's 1500m,ATH,1910451,2024-08-10
+Gold Medal,Women's Javelin Throw,ATH,1919914,2024-08-10
+Silver Medal,Men's 5000m,ATH,1963077,2024-08-10
+Silver Medal,Men's 800m,ATH,1974048,2024-08-10
+Silver Medal,Men's High Jump,ATH,1965306,2024-08-10
+Silver Medal,Men's Marathon,ATH,1942753,2024-08-10
+Silver Medal,Women's 100m Hurdles,ATH,1911932,2024-08-10
+Silver Medal,Women's 1500m,ATH,1939795,2024-08-10
+Silver Medal,Women's Javelin Throw,ATH,1981085,2024-08-10
+Bronze Medal,Women's Marathon,ATH,1932851,2024-08-11
+Gold Medal,Women's Marathon,ATH,1972105,2024-08-11
+Silver Medal,Women's Marathon,ATH,1901487,2024-08-11
+Bronze Medal,Men's Park,BMF,1895685,2024-07-31
+Bronze Medal,Women's Park,BMF,1940118,2024-07-31
+Gold Medal,Men's Park,BMF,1916809,2024-07-31
+Gold Medal,Women's Park,BMF,1920569,2024-07-31
+Silver Medal,Men's Park,BMF,1912548,2024-07-31
+Silver Medal,Women's Park,BMF,1955071,2024-07-31
+Bronze Medal,Men,BMX,1895700,2024-08-02
+Bronze Medal,Women,BMX,1976480,2024-08-02
+Gold Medal,Men,BMX,1895661,2024-08-02
+Gold Medal,Women,BMX,1940127,2024-08-02
+Silver Medal,Men,BMX,1895640,2024-08-02
+Silver Medal,Women,BMX,1969181,2024-08-02
+Bronze Medal,Women's Speed,CLB,1563321,2024-08-07
+Gold Medal,Women's Speed,CLB,1563327,2024-08-07
+Silver Medal,Women's Speed,CLB,1913702,2024-08-07
+Bronze Medal,Men's Speed,CLB,1950309,2024-08-08
+Gold Medal,Men's Speed,CLB,1940329,2024-08-08
+Silver Medal,Men's Speed,CLB,1913699,2024-08-08
+Bronze Medal,Men's Boulder & Lead,CLB,1560677,2024-08-09
+Gold Medal,Men's Boulder & Lead,CLB,1544218,2024-08-09
+Silver Medal,Men's Boulder & Lead,CLB,1892022,2024-08-09
+Bronze Medal,Women's Boulder & Lead,CLB,1560673,2024-08-10
+Gold Medal,Women's Boulder & Lead,CLB,1981131,2024-08-10
+Silver Medal,Women's Boulder & Lead,CLB,1950307,2024-08-10
+Bronze Medal,Men's Individual Time Trial,CRD,1903147,2024-07-27
+Bronze Medal,Women's Individual Time Trial,CRD,1955079,2024-07-27
+Gold Medal,Men's Individual Time Trial,CRD,1903136,2024-07-27
+Gold Medal,Women's Individual Time Trial,CRD,1940173,2024-07-27
+Silver Medal,Men's Individual Time Trial,CRD,1923520,2024-07-27
+Silver Medal,Women's Individual Time Trial,CRD,1912525,2024-07-27
+Bronze Medal,Men's Road Race,CRD,1895694,2024-08-03
+Gold Medal,Men's Road Race,CRD,1903136,2024-08-03
+Silver Medal,Men's Road Race,CRD,1895699,2024-08-03
+Bronze Medal,Women's Road Race,CRD,1903120,2024-08-04
+Gold Medal,Women's Road Race,CRD,1955081,2024-08-04
+Silver Medal,Women's Road Race,CRD,1969165,2024-08-04
+Bronze Medal,Women's Kayak Single,CSL,1896045,2024-07-28
+Gold Medal,Women's Kayak Single,CSL,1940205,2024-07-28
+Silver Medal,Women's Kayak Single,CSL,1942126,2024-07-28
+Bronze Medal,Men's Canoe Single,CSL,1961080,2024-07-29
+Gold Medal,Men's Canoe Single,CSL,1880479,2024-07-29
+Silver Medal,Men's Canoe Single,CSL,1896030,2024-07-29
+Bronze Medal,Women's Canoe Single,CSL,1955132,2024-07-31
+Gold Medal,Women's Canoe Single,CSL,1940205,2024-07-31
+Silver Medal,Women's Canoe Single,CSL,1913770,2024-07-31
+Bronze Medal,Men's Kayak Single,CSL,1953935,2024-08-01
+Gold Medal,Men's Kayak Single,CSL,1550975,2024-08-01
+Silver Medal,Men's Kayak Single,CSL,1880464,2024-08-01
+Bronze Medal,Men's Kayak Cross,CSL,1913780,2024-08-05
+Bronze Medal,Women's Kayak Cross,CSL,1896045,2024-08-05
+Gold Medal,Men's Kayak Cross,CSL,1945386,2024-08-05
+Gold Medal,Women's Kayak Cross,CSL,1940209,2024-08-05
+Silver Medal,Men's Kayak Cross,CSL,1896032,2024-08-05
+Silver Medal,Women's Kayak Cross,CSL,1880483,2024-08-05
+Bronze Medal,Men's Canoe Single 1000m,CSP,1550295,2024-08-09
+Gold Medal,Men's Canoe Single 1000m,CSP,1878716,2024-08-09
+Silver Medal,Men's Canoe Single 1000m,CSP,1952595,2024-08-09
+Bronze Medal,Men's Kayak Single 1000m,CSP,1569972,2024-08-10
+Bronze Medal,Women's Canoe Single 200m,CSP,1564506,2024-08-10
+Bronze Medal,Women's Kayak Single 500m,CSP,1892423,2024-08-10
+Gold Medal,Men's Kayak Single 1000m,CSP,1878715,2024-08-10
+Gold Medal,Women's Canoe Single 200m,CSP,1964547,2024-08-10
+Gold Medal,Women's Kayak Single 500m,CSP,1945383,2024-08-10
+Silver Medal,Men's Kayak Single 1000m,CSP,1570863,2024-08-10
+Silver Medal,Women's Canoe Single 200m,CSP,1955126,2024-08-10
+Silver Medal,Women's Kayak Single 500m,CSP,1568350,2024-08-10
+Bronze Medal,Men's Omnium,CTR,1915370,2024-08-08
+Bronze Medal,Women's Keirin,CTR,1912522,2024-08-08
+Gold Medal,Men's Omnium,CTR,1895717,2024-08-08
+Gold Medal,Women's Keirin,CTR,1945040,2024-08-08
+Silver Medal,Men's Omnium,CTR,1933816,2024-08-08
+Silver Medal,Women's Keirin,CTR,1969180,2024-08-08
+Bronze Medal,Men's Sprint,CTR,1912515,2024-08-09
+Gold Medal,Men's Sprint,CTR,1969182,2024-08-09
+Silver Medal,Men's Sprint,CTR,1940263,2024-08-09
+Bronze Medal,Men's Keirin,CTR,1940262,2024-08-11
+Bronze Medal,Women's Omnium,CTR,1945080,2024-08-11
+Bronze Medal,Women's Sprint,CTR,1912522,2024-08-11
+Gold Medal,Men's Keirin,CTR,1969182,2024-08-11
+Gold Medal,Women's Omnium,CTR,1955106,2024-08-11
+Gold Medal,Women's Sprint,CTR,1945040,2024-08-11
+Silver Medal,Men's Keirin,CTR,1940263,2024-08-11
+Silver Medal,Women's Omnium,CTR,1572953,2024-08-11
+Silver Medal,Women's Sprint,CTR,1889704,2024-08-11
+Bronze Medal,Women's 10m Platform,DIV,1980115,2024-08-06
+Gold Medal,Women's 10m Platform,DIV,1901545,2024-08-06
+Silver Medal,Women's 10m Platform,DIV,1901544,2024-08-06
+Bronze Medal,Men's 3m Springboard,DIV,1535349,2024-08-08
+Gold Medal,Men's 3m Springboard,DIV,1901550,2024-08-08
+Silver Medal,Men's 3m Springboard,DIV,1901549,2024-08-08
+Bronze Medal,Women's 3m Springboard,DIV,1901539,2024-08-09
+Gold Medal,Women's 3m Springboard,DIV,1901538,2024-08-09
+Silver Medal,Women's 3m Springboard,DIV,1940414,2024-08-09
+Bronze Medal,Men's 10m Platform,DIV,1900857,2024-08-10
+Gold Medal,Men's 10m Platform,DIV,1901556,2024-08-10
+Silver Medal,Men's 10m Platform,DIV,1891685,2024-08-10
+Bronze Medal,Eventing Individual,EQU,1970898,2024-07-29
+Gold Medal,Eventing Individual,EQU,1914921,2024-07-29
+Silver Medal,Eventing Individual,EQU,1940438,2024-07-29
+Bronze Medal,Dressage Individual,EQU,1970905,2024-08-04
+Gold Medal,Dressage Individual,EQU,1914905,2024-08-04
+Silver Medal,Dressage Individual,EQU,1914909,2024-08-04
+Bronze Medal,Jumping Individual,EQU,1976879,2024-08-06
+Gold Medal,Jumping Individual,EQU,1914912,2024-08-06
+Silver Medal,Jumping Individual,EQU,1976553,2024-08-06
+Bronze Medal,Men's All-Around,GAR,1918860,2024-07-31
+Gold Medal,Men's All-Around,GAR,1919480,2024-07-31
+Silver Medal,Men's All-Around,GAR,1918864,2024-07-31
+Bronze Medal,Women's All-Around,GAR,1959866,2024-08-01
+Gold Medal,Women's All-Around,GAR,1959861,2024-08-01
+Silver Medal,Women's All-Around,GAR,1953634,2024-08-01
+Bronze Medal,Men's Floor Exercise,GAR,1904741,2024-08-03
+Bronze Medal,Men's Pommel Horse,GAR,1959865,2024-08-03
+Bronze Medal,Women's Vault,GAR,1959819,2024-08-03
+Gold Medal,Men's Floor Exercise,GAR,1975874,2024-08-03
+Gold Medal,Men's Pommel Horse,GAR,1539986,2024-08-03
+Gold Medal,Women's Vault,GAR,1959861,2024-08-03
+Silver Medal,Men's Floor Exercise,GAR,1908195,2024-08-03
+Silver Medal,Men's Pommel Horse,GAR,1931577,2024-08-03
+Silver Medal,Women's Vault,GAR,1953634,2024-08-03
+Bronze Medal,Men's Rings,GAR,1961314,2024-08-04
+Bronze Medal,Men's Vault,GAR,1904740,2024-08-04
+Bronze Medal,Women's Uneven Bars,GAR,1959866,2024-08-04
+Gold Medal,Men's Rings,GAR,1918856,2024-08-04
+Gold Medal,Men's Vault,GAR,1975874,2024-08-04
+Gold Medal,Women's Uneven Bars,GAR,1545688,2024-08-04
+Silver Medal,Men's Rings,GAR,1918865,2024-08-04
+Silver Medal,Men's Vault,GAR,1915828,2024-08-04
+Silver Medal,Women's Uneven Bars,GAR,1918872,2024-08-04
+Bronze Medal,Men's Horizontal Bar,GAR,1918864,2024-08-05
+Bronze Medal,Men's Horizontal Bar,GAR,1878037,2024-08-05
+Bronze Medal,Men's Parallel Bars,GAR,1919480,2024-08-05
+Bronze Medal,Women's Balance Beam,GAR,1560762,2024-08-05
+Bronze Medal,Women's Floor Exercise,GAR,1550170,2024-08-05
+Gold Medal,Men's Horizontal Bar,GAR,1919480,2024-08-05
+Gold Medal,Men's Parallel Bars,GAR,1918865,2024-08-05
+Gold Medal,Women's Balance Beam,GAR,1551061,2024-08-05
+Gold Medal,Women's Floor Exercise,GAR,1953634,2024-08-05
+Silver Medal,Men's Horizontal Bar,GAR,1935685,2024-08-05
+Silver Medal,Men's Parallel Bars,GAR,1897555,2024-08-05
+Silver Medal,Women's Balance Beam,GAR,1918881,2024-08-05
+Silver Medal,Women's Floor Exercise,GAR,1959861,2024-08-05
+Bronze Medal,Men's Individual Stroke Play,GLF,1961406,2024-08-04
+Gold Medal,Men's Individual Stroke Play,GLF,1951724,2024-08-04
+Silver Medal,Men's Individual Stroke Play,GLF,1923629,2024-08-04
+Bronze Medal,Women's Individual Stroke Play,GLF,1913218,2024-08-10
+Gold Medal,Women's Individual Stroke Play,GLF,1939553,2024-08-10
+Silver Medal,Women's Individual Stroke Play,GLF,1892506,2024-08-10
+Bronze Medal,Individual All-Around,GRY,1923694,2024-08-09
+Gold Medal,Individual All-Around,GRY,1896230,2024-08-09
+Silver Medal,Individual All-Around,GRY,1548948,2024-08-09
+Bronze Medal,Men,GTR,1918789,2024-08-02
+Bronze Medal,Women,GTR,1973102,2024-08-02
+Gold Medal,Men,GTR,1937347,2024-08-02
+Gold Medal,Women,GTR,1904745,2024-08-02
+Silver Medal,Men,GTR,1918790,2024-08-02
+Silver Medal,Women,GTR,1938437,2024-08-02
+Bronze Medal,Men's Individual,MPN,1553031,2024-08-10
+Gold Medal,Men's Individual,MPN,1932649,2024-08-10
+Silver Medal,Men's Individual,MPN,1887939,2024-08-10
+Bronze Medal,Women's Individual,MPN,1786902,2024-08-11
+Gold Medal,Women's Individual,MPN,1936619,2024-08-11
+Silver Medal,Women's Individual,MPN,1545116,2024-08-11
+Bronze Medal,Women's Cross-country,MTB,1564023,2024-07-28
+Gold Medal,Women's Cross-country,MTB,1895672,2024-07-28
+Silver Medal,Women's Cross-country,MTB,1955070,2024-07-28
+Bronze Medal,Men's Cross-country,MTB,1943604,2024-07-29
+Gold Medal,Men's Cross-country,MTB,1912546,2024-07-29
+Silver Medal,Men's Cross-country,MTB,1895687,2024-07-29
+Bronze Medal,Women's 10km,OWS,1925804,2024-08-08
+Gold Medal,Women's 10km,OWS,1972515,2024-08-08
+Silver Medal,Women's 10km,OWS,1945588,2024-08-08
+Bronze Medal,Men's 10km,OWS,1902450,2024-08-09
+Gold Medal,Men's 10km,OWS,1909030,2024-08-09
+Silver Medal,Men's 10km,OWS,1907234,2024-08-09
+Bronze Medal,Men's Single Sculls,ROW,1965599,2024-08-03
+Bronze Medal,Women's Single Sculls,ROW,1941956,2024-08-03
+Gold Medal,Men's Single Sculls,ROW,1906515,2024-08-03
+Gold Medal,Women's Single Sculls,ROW,1965558,2024-08-03
+Silver Medal,Men's Single Sculls,ROW,1538160,2024-08-03
+Silver Medal,Women's Single Sculls,ROW,1927027,2024-08-03
+Bronze Medal,Men's Windsurfing,SAL,1970505,2024-08-03
+Bronze Medal,Women's Windsurfing,SAL,1899748,2024-08-03
+Gold Medal,Men's Windsurfing,SAL,1927680,2024-08-03
+Gold Medal,Women's Windsurfing,SAL,1899653,2024-08-03
+Silver Medal,Men's Windsurfing,SAL,1945982,2024-08-03
+Silver Medal,Women's Windsurfing,SAL,1927733,2024-08-03
+Bronze Medal,Men's Dinghy,SAL,1944316,2024-08-07
+Bronze Medal,Women's Dinghy,SAL,1878602,2024-08-07
+Gold Medal,Men's Dinghy,SAL,1945990,2024-08-07
+Gold Medal,Women's Dinghy,SAL,1970500,2024-08-07
+Silver Medal,Men's Dinghy,SAL,1905347,2024-08-07
+Silver Medal,Women's Dinghy,SAL,1895121,2024-08-07
+Bronze Medal,Women's Kite,SAL,1970517,2024-08-08
+Gold Medal,Women's Kite,SAL,1899728,2024-08-08
+Silver Medal,Women's Kite,SAL,1559512,2024-08-08
+Bronze Medal,Men's Kite,SAL,1535852,2024-08-09
+Gold Medal,Men's Kite,SAL,1566437,2024-08-09
+Silver Medal,Men's Kite,SAL,1981549,2024-08-09
+Bronze Medal,10m Air Pistol Men,SHO,1551387,2024-07-28
+Bronze Medal,10m Air Pistol Women,SHO,1538159,2024-07-28
+Gold Medal,10m Air Pistol Men,SHO,1913907,2024-07-28
+Gold Medal,10m Air Pistol Women,SHO,1893972,2024-07-28
+Silver Medal,10m Air Pistol Men,SHO,1551388,2024-07-28
+Silver Medal,10m Air Pistol Women,SHO,1893930,2024-07-28
+Bronze Medal,10m Air Rifle Men,SHO,1888047,2024-07-29
+Bronze Medal,10m Air Rifle Women,SHO,1976545,2024-07-29
+Gold Medal,10m Air Rifle Men,SHO,1913899,2024-07-29
+Gold Medal,10m Air Rifle Women,SHO,1893845,2024-07-29
+Silver Medal,10m Air Rifle Men,SHO,1572919,2024-07-29
+Silver Medal,10m Air Rifle Women,SHO,1913945,2024-07-29
+Bronze Medal,Trap Men,SHO,1958970,2024-07-30
+Gold Medal,Trap Men,SHO,1904430,2024-07-30
+Silver Medal,Trap Men,SHO,1913928,2024-07-30
+Bronze Medal,Trap Women,SHO,1967454,2024-07-31
+Gold Medal,Trap Women,SHO,1958899,2024-07-31
+Silver Medal,Trap Women,SHO,1915317,2024-07-31
+Bronze Medal,50m Rifle 3 Positions Men,SHO,1538084,2024-08-01
+Gold Medal,50m Rifle 3 Positions Men,SHO,1913922,2024-08-01
+Silver Medal,50m Rifle 3 Positions Men,SHO,1555976,2024-08-01
+Bronze Medal,50m Rifle 3 Positions Women,SHO,1913972,2024-08-02
+Gold Medal,50m Rifle 3 Positions Women,SHO,1977709,2024-08-02
+Silver Medal,50m Rifle 3 Positions Women,SHO,1944373,2024-08-02
+Bronze Medal,25m Pistol Women,SHO,1899493,2024-08-03
+Bronze Medal,Skeet Men,SHO,1569852,2024-08-03
+Gold Medal,25m Pistol Women,SHO,1893995,2024-08-03
+Gold Medal,Skeet Men,SHO,1944354,2024-08-03
+Silver Medal,25m Pistol Women,SHO,1888429,2024-08-03
+Silver Medal,Skeet Men,SHO,1944385,2024-08-03
+Bronze Medal,Skeet Women,SHO,1944397,2024-08-04
+Gold Medal,Skeet Women,SHO,1937878,2024-08-04
+Silver Medal,Skeet Women,SHO,1977402,2024-08-04
+Bronze Medal,25m Rapid Fire Pistol Men,SHO,1913919,2024-08-05
+Gold Medal,25m Rapid Fire Pistol Men,SHO,1913913,2024-08-05
+Silver Medal,25m Rapid Fire Pistol Men,SHO,1893852,2024-08-05
+Bronze Medal,Women's Street,SKB,1955689,2024-07-28
+Gold Medal,Women's Street,SKB,1902055,2024-07-28
+Silver Medal,Women's Street,SKB,1902069,2024-07-28
+Bronze Medal,Men's Street,SKB,1944232,2024-07-29
+Gold Medal,Men's Street,SKB,1902081,2024-07-29
+Silver Medal,Men's Street,SKB,1944226,2024-07-29
+Bronze Medal,Women's Park,SKB,1544123,2024-08-06
+Gold Medal,Women's Park,SKB,1946064,2024-08-06
+Silver Medal,Women's Park,SKB,1902075,2024-08-06
+Bronze Medal,Men's Park,SKB,1955669,2024-08-07
+Gold Medal,Men's Park,SKB,1946074,2024-08-07
+Silver Medal,Men's Park,SKB,1944247,2024-08-07
+Bronze Medal,Men's 400m Freestyle,SWM,4654306,2024-07-27
+Bronze Medal,Women's 400m Freestyle,SWM,1935938,2024-07-27
+Gold Medal,Men's 400m Freestyle,SWM,1907192,2024-07-27
+Gold Medal,Women's 400m Freestyle,SWM,1946150,2024-07-27
+Silver Medal,Men's 400m Freestyle,SWM,1946172,2024-07-27
+Silver Medal,Women's 400m Freestyle,SWM,1967140,2024-07-27
+Bronze Medal,Men's 400m Individual Medley,SWM,1935903,2024-07-28
+Bronze Medal,Women's 100m Butterfly,SWM,1945125,2024-07-28
+Gold Medal,Men's 100m Breaststroke,SWM,1925633,2024-07-28
+Gold Medal,Men's 400m Individual Medley,SWM,1909294,2024-07-28
+Gold Medal,Women's 100m Butterfly,SWM,1935923,2024-07-28
+Silver Medal,Men's 100m Breaststroke,SWM,1956469,2024-07-28
+Silver Medal,Men's 100m Breaststroke,SWM,1935901,2024-07-28
+Silver Medal,Men's 400m Individual Medley,SWM,1963635,2024-07-28
+Silver Medal,Women's 100m Butterfly,SWM,1935998,2024-07-28
+Bronze Medal,Men's 100m Backstroke,SWM,1935957,2024-07-29
+Bronze Medal,Men's 200m Freestyle,SWM,1935918,2024-07-29
+Bronze Medal,Women's 100m Breaststroke,SWM,1543304,2024-07-29
+Bronze Medal,Women's 200m Freestyle,SWM,1925125,2024-07-29
+Bronze Medal,Women's 400m Individual Medley,SWM,1936001,2024-07-29
+Gold Medal,Men's 100m Backstroke,SWM,1925635,2024-07-29
+Gold Medal,Men's 200m Freestyle,SWM,1543549,2024-07-29
+Gold Medal,Women's 100m Breaststroke,SWM,1962589,2024-07-29
+Gold Medal,Women's 200m Freestyle,SWM,1946218,2024-07-29
+Gold Medal,Women's 400m Individual Medley,SWM,1967140,2024-07-29
+Silver Medal,Men's 100m Backstroke,SWM,1945132,2024-07-29
+Silver Medal,Men's 200m Freestyle,SWM,1903617,2024-07-29
+Silver Medal,Women's 100m Breaststroke,SWM,1945200,2024-07-29
+Silver Medal,Women's 200m Freestyle,SWM,1946150,2024-07-29
+Silver Medal,Women's 400m Individual Medley,SWM,1935909,2024-07-29
+Bronze Medal,Men's 800m Freestyle,SWM,1925630,2024-07-30
+Bronze Medal,Women's 100m Backstroke,SWM,1935873,2024-07-30
+Gold Medal,Men's 800m Freestyle,SWM,1539969,2024-07-30
+Gold Medal,Women's 100m Backstroke,SWM,1946198,2024-07-30
+Silver Medal,Men's 800m Freestyle,SWM,1935902,2024-07-30
+Silver Medal,Women's 100m Backstroke,SWM,1935984,2024-07-30
+Bronze Medal,Men's 100m Freestyle,SWM,1543549,2024-07-31
+Bronze Medal,Men's 200m Breaststroke,SWM,1972545,2024-07-31
+Bronze Medal,Men's 200m Butterfly,SWM,1967058,2024-07-31
+Bronze Medal,Women's 100m Freestyle,SWM,1925125,2024-07-31
+Bronze Medal,Women's 1500m Freestyle,SWM,1907171,2024-07-31
+Gold Medal,Men's 100m Freestyle,SWM,1945148,2024-07-31
+Gold Medal,Men's 200m Breaststroke,SWM,1909294,2024-07-31
+Gold Medal,Men's 200m Butterfly,SWM,1909294,2024-07-31
+Gold Medal,Women's 100m Freestyle,SWM,1572557,2024-07-31
+Gold Medal,Women's 1500m Freestyle,SWM,1935938,2024-07-31
+Silver Medal,Men's 100m Freestyle,SWM,1946200,2024-07-31
+Silver Medal,Men's 200m Breaststroke,SWM,1946185,2024-07-31
+Silver Medal,Men's 200m Butterfly,SWM,1905860,2024-07-31
+Silver Medal,Women's 100m Freestyle,SWM,1935923,2024-07-31
+Silver Medal,Women's 1500m Freestyle,SWM,1909209,2024-07-31
+Bronze Medal,Men's 200m Backstroke,SWM,1977754,2024-08-01
+Bronze Medal,Women's 200m Breaststroke,SWM,1972525,2024-08-01
+Bronze Medal,Women's 200m Butterfly,SWM,1945125,2024-08-01
+Gold Medal,Men's 200m Backstroke,SWM,1904977,2024-08-01
+Gold Medal,Women's 200m Breaststroke,SWM,1935895,2024-08-01
+Gold Medal,Women's 200m Butterfly,SWM,1967140,2024-08-01
+Silver Medal,Men's 200m Backstroke,SWM,1954557,2024-08-01
+Silver Medal,Women's 200m Breaststroke,SWM,1962589,2024-08-01
+Silver Medal,Women's 200m Butterfly,SWM,1935984,2024-08-01
+Bronze Medal,Men's 200m Individual Medley,SWM,1945186,2024-08-02
+Bronze Medal,Men's 50m Freestyle,SWM,1909292,2024-08-02
+Bronze Medal,Women's 200m Backstroke,SWM,1967104,2024-08-02
+Gold Medal,Men's 200m Individual Medley,SWM,1909294,2024-08-02
+Gold Medal,Men's 50m Freestyle,SWM,1946161,2024-08-02
+Gold Medal,Women's 200m Backstroke,SWM,1946198,2024-08-02
+Silver Medal,Men's 200m Individual Medley,SWM,1903621,2024-08-02
+Silver Medal,Men's 50m Freestyle,SWM,1903616,2024-08-02
+Silver Medal,Women's 200m Backstroke,SWM,1935984,2024-08-02
+Bronze Medal,Men's 100m Butterfly,SWM,1967058,2024-08-03
+Bronze Medal,Women's 200m Individual Medley,SWM,1946198,2024-08-03
+Bronze Medal,Women's 800m Freestyle,SWM,1935943,2024-08-03
+Gold Medal,Men's 100m Butterfly,SWM,1905860,2024-08-03
+Gold Medal,Women's 200m Individual Medley,SWM,1967140,2024-08-03
+Gold Medal,Women's 800m Freestyle,SWM,1935938,2024-08-03
+Silver Medal,Men's 100m Butterfly,SWM,1967069,2024-08-03
+Silver Medal,Women's 200m Individual Medley,SWM,1935895,2024-08-03
+Silver Medal,Women's 800m Freestyle,SWM,1946150,2024-08-03
+Bronze Medal,Men's 1500m Freestyle,SWM,1539969,2024-08-04
+Bronze Medal,Women's 50m Freestyle,SWM,1945125,2024-08-04
+Gold Medal,Men's 1500m Freestyle,SWM,1935902,2024-08-04
+Gold Medal,Women's 50m Freestyle,SWM,1572557,2024-08-04
+Silver Medal,Men's 1500m Freestyle,SWM,1925630,2024-08-04
+Silver Medal,Women's 50m Freestyle,SWM,1946212,2024-08-04
+Bronze Medal,Men's Individual,TRI,1543967,2024-07-31
+Bronze Medal,Women's Individual,TRI,1904244,2024-07-31
+Gold Medal,Men's Individual,TRI,1904251,2024-07-31
+Gold Medal,Women's Individual,TRI,1543963,2024-07-31
+Silver Medal,Men's Individual,TRI,1926549,2024-07-31
+Silver Medal,Women's Individual,TRI,1976489,2024-07-31
